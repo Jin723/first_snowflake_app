@@ -1,1 +1,3 @@
-my first streamlit python
+import streamlit
+
+streamlit.title("My Helathy Diner")
