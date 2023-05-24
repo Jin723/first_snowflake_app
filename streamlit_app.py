@@ -1,7 +1,7 @@
 import streamlit
 import pandas
 import requests
-import snowfalke.connector
+
 
 
 streamlit.title("My Helathy Diner")
