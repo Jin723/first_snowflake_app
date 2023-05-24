@@ -1,5 +1,5 @@
 # requirements.txt
-pip uninstall snowflake
+
 snowflake-connector-python
 
 
