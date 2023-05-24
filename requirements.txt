@@ -2,6 +2,4 @@
 pip uninstall snowflake
 snowflake-connector-python
 
-cffi==1.15.0
 
-streamlit >= 1.9.2
