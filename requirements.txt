@@ -1,5 +1,5 @@
 # requirements.txt
-
+pip install --upgrade pip
 snowflake-connector-python
 
 
