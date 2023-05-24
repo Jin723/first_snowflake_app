@@ -1,5 +1,2 @@
 # requirements.txt
-Streamlit
 snowflake-connector-python
-
-
